@@ -1,0 +1,19 @@
+#fullpage .section {
+    text-align: center;
+}
+
+.avatar {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.works a {
+    text-decoration: none;
+    color: white;
+}
+
+.contact a {
+    text-decoration: none;
+    color:#0000FF;
+}
